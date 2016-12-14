@@ -245,6 +245,13 @@
 
 Обратите внимание, что имя миксина не изменяется.
 
+## Компоненты, написанные по этой методологии
+
+* [bettertext.css](https://github.com/paulradzkov/bettertext.css)
+* [flxgrid.css](https://github.com/paulradzkov/flxgrid.css)
+* [space.less](https://github.com/paulradzkov/space.less)
+* [links.less](https://github.com/paulradzkov/links.less)
+
 ## Разделение на «геометрию» и «скин»
 
 ## Документация
